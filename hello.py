@@ -1,4 +1,0 @@
-# helolo program
-
-
-print("welcome")
